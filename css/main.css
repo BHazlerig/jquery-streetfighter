@@ -4,6 +4,8 @@ body {
 
 .main {
 	background-color: white;
+  background-image: url('../images/Island_Background3.jpg');
+  background-size: 100% 100%;
 	margin-top: 110px;
 	padding-left: 100px;
 	min-width: 1200px;
